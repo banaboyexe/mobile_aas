@@ -1,3 +1,9 @@
+# PENGUMPULAN AAS
+
+Nama  : Bana Khusnan
+NPM   : 2005040095
+Prodi : Teknik Informatika S1
+
 # slicing
 
 A new Flutter project.
